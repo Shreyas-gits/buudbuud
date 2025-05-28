@@ -1,0 +1,2 @@
+# buudbuud
+Some stonks project
