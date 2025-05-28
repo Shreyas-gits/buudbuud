@@ -1,0 +1,8 @@
+certifi==2025.4.26
+protobuf==6.31.0
+python-dateutil==2.9.0.post0
+six==1.17.0
+upstox-python-sdk==2.15.0
+urllib3==2.4.0
+uuid==1.30
+websocket-client==1.8.0
